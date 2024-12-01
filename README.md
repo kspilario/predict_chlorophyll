@@ -1,6 +1,6 @@
-# Robust Prediction of Chl-a from N and P Content in Lakes
+# Robust Prediction of Chl-a from Nitrogen and Phosphorus Content in Lakes
 
-This repository contains the codes associated with the following [publication](https://doi.org/10.1016/j.envc.2024.101056): "Robust Prediction of Chlorophyll-a from Nitrogen and Phosphorus Content in Philippine and Global Lakes Using Fine-Tuned, Explainable Machine Learning," Environmental Challenges. DOI: 10.1016/j.envc.2024.101056
+This repository contains the codes associated with the following [publication](https://doi.org/10.1016/j.envc.2024.101056): Pilario, Escober, de los Reyes V, and Espino (2024). "Robust Prediction of Chlorophyll-a from Nitrogen and Phosphorus Content in Philippine and Global Lakes Using Fine-Tuned, Explainable Machine Learning," Environmental Challenges. DOI: 10.1016/j.envc.2024.101056
 
 ## Required Libraries
 
