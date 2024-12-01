@@ -4,13 +4,7 @@ This repository contains the codes associated with the following [publication](h
 
 ## Required Libraries
 
-To run the codes, the following libraries are needed:
-* NumPy
-* Pandas
-* Seaborn
-* Matplotlib
-* Scikit-learn
-* Optuna
+To run the codes, the following libraries are needed: NumPy, Pandas, Seaborn, Matplotlib, Scikit-learn, [Optuna](https://optuna.readthedocs.io/en/stable/).
 
 ## Usage
 There are two main files corresponding to two case studies in the paper:
